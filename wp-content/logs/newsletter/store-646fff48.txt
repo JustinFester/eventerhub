@@ -1,0 +1,12 @@
+01-07-2016 14:36:21 - FATAL - 12.8 MB - 
+01-07-2016 14:36:21 - FATAL - 12.8 MB - select * from ge_newsletter where email='andrea@knifecap.com' limit 1
+01-07-2016 14:37:51 - FATAL - 12.8 MB - 
+01-07-2016 14:37:51 - FATAL - 12.8 MB - select * from ge_newsletter where email='andrea@knifecap.com' limit 1
+04-07-2016 07:51:14 - FATAL - 12.8 MB - 
+04-07-2016 07:51:14 - FATAL - 12.8 MB - SHOW FULL COLUMNS FROM `ge_newsletter_emails`
+04-07-2016 07:52:00 - FATAL - 12.8 MB - 
+04-07-2016 07:52:00 - FATAL - 12.8 MB - SHOW FULL COLUMNS FROM `ge_newsletter_emails`
+16-08-2016 11:29:51 - FATAL - 17.1 MB - 
+16-08-2016 11:29:51 - FATAL - 17.1 MB - select * from ge_newsletter where email='andrea@knifecap.com' limit 1
+16-08-2016 11:31:53 - FATAL - 17.1 MB - 
+16-08-2016 11:31:53 - FATAL - 17.1 MB - select * from ge_newsletter where email='andrea@knifecap.com' limit 1
